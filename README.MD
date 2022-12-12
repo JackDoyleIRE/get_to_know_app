@@ -63,7 +63,8 @@ The get to know us app is all about getting to know friends, family, partners an
 ### Built With
 
 * [![Node][NodeJS]][Node-url]
-* [![Next][Next.js]][Next-url]
+* [![Express][Express.js]][Express-url]
+* [![Heroku][Heroku.com]][Heroku-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,7 +135,15 @@ Distributed under the MIT License.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [product-screenshot]: public/images/screenshot.png
+
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+
+[Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express-url]: https://expressjs.com/
+
+[Heroku.com]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white
+[Heroku-url]: https://www.heroku.com/what
+
+
+
