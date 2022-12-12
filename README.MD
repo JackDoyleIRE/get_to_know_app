@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/public/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Get to know us</h3>
@@ -12,14 +12,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JackDoyleIRE/get_to_know_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/JackDoyleIRE/get_to_know_app">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/JackDoyleIRE/get_to_know_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/JackDoyleIRE/get_to_know_app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://get-to-know-app.herokuapp.com/)
+(https://get-to-know-app.herokuapp.com/)
 
 The get to know us app is all about getting to know friends, family, partners and loved ones
 
@@ -63,6 +63,7 @@ The get to know us app is all about getting to know friends, family, partners an
 ### Built With
 
 * [![Node][NodeJS]][Node-url]
+* [![Next][Next.js]][Next-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,5 +134,7 @@ Distributed under the MIT License.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [product-screenshot]: public/images/screenshot.png
-[NodeJS]: (https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/en/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
